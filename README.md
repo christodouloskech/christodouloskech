@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Machine learning researcher at EPFL working on model development, representation learning, model analysis, and efficient inference. 
+
+The research libraries pinned below were developed by me during my PhD at EPFL and are maintained under my lab's GitHub organization.
+
+[Google Scholar](https://scholar.google.com/citations?user=7063DQUAAAAJ) . [LinkedIn](https://www.linkedin.com/in/christodoulos-kechris-6596a1310/)
+
 <!--
 **christodouloskech/christodouloskech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
