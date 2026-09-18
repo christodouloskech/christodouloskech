@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Machine learning researcher at EPFL working on model development, representation learning, model analysis, and efficient inference. 
+PhD machine learning researcher at EPFL working on model development, representation learning, model analysis, and efficient inference. 
 
 The research libraries pinned below were developed by me during my PhD at EPFL and are maintained under my lab's GitHub organization.
 
